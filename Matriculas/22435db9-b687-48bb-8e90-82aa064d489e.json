@@ -1,0 +1,61 @@
+{
+  "numero": "22435db9-b687-48bb-8e90-82aa064d489e",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 20,
+    "hourOfDay": 10,
+    "minute": 5,
+    "second": 18
+  },
+  "estado": "APROBADO",
+  "estudiante": {
+    "Nombre": "Edward",
+    "apellido": "Guallichico",
+    "cedula": "1717195422"
+  },
+  "curso": {
+    "titulo": "Auxiliar en Software",
+    "costo": 112.0,
+    "descripcion": "Tester"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 41,
+        "second": 23
+      },
+      "valor": 14.52,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 45,
+        "second": 39
+      },
+      "valor": 17.52,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 45,
+        "second": 49
+      },
+      "valor": 18.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.68
+}

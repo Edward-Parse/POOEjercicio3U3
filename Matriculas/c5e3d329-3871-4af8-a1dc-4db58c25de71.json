@@ -1,0 +1,60 @@
+{
+  "numero": "c5e3d329-3871-4af8-a1dc-4db58c25de71",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 0,
+    "second": 58
+  },
+  "estado": "APROBADO",
+  "estudiante": {
+    "Nombre": "Cristobal",
+    "apellido": "Guallichcio",
+    "cedula": "1717195422"
+  },
+  "curso": {
+    "titulo": "Calculo vectorial",
+    "costo": 110.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 2,
+        "second": 35
+      },
+      "valor": 15.42,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 2,
+        "second": 42
+      },
+      "valor": 14.35,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 2,
+        "second": 51
+      },
+      "valor": 16.42,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 15.3966675
+}

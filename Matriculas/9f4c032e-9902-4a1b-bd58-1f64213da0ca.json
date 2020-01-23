@@ -1,0 +1,61 @@
+{
+  "numero": "9f4c032e-9902-4a1b-bd58-1f64213da0ca",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 48,
+    "second": 21
+  },
+  "estado": "APROBADO",
+  "estudiante": {
+    "Nombre": "Johan",
+    "apellido": "Paucar",
+    "cedula": "1714545555"
+  },
+  "curso": {
+    "titulo": "Auxiliar en Software",
+    "costo": 112.0,
+    "descripcion": "Tester"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 48,
+        "second": 58
+      },
+      "valor": 14.52,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 49,
+        "second": 9
+      },
+      "valor": 17.56,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 49,
+        "second": 26
+      },
+      "valor": 13.25,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 15.110001
+}

@@ -1,0 +1,61 @@
+{
+  "numero": "faa328af-b9ac-4af7-9e18-c9f238ad2781",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 8,
+    "second": 59
+  },
+  "estado": "APROBADO",
+  "estudiante": {
+    "Nombre": "Cristobal",
+    "apellido": "Guallichcio",
+    "cedula": "1717195422"
+  },
+  "curso": {
+    "titulo": "Auxiliar en Software",
+    "costo": 112.0,
+    "descripcion": "Tester"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 10
+      },
+      "valor": 14.86,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 17
+      },
+      "valor": 14.52,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 25
+      },
+      "valor": 13.62,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.333333
+}

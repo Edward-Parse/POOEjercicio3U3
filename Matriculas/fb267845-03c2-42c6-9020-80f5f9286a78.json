@@ -1,0 +1,60 @@
+{
+  "numero": "fb267845-03c2-42c6-9020-80f5f9286a78",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 12,
+    "second": 4
+  },
+  "estado": "REPROBADO",
+  "estudiante": {
+    "Nombre": "Jenifer",
+    "apellido": "Moreno",
+    "cedula": "1558691548"
+  },
+  "curso": {
+    "titulo": "Calculo vectorial",
+    "costo": 110.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 15,
+        "second": 2
+      },
+      "valor": 11.51,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 15,
+        "second": 11
+      },
+      "valor": 12.4,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 15,
+        "second": 22
+      },
+      "valor": 14.86,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 12.923333
+}

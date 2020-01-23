@@ -1,0 +1,97 @@
+[
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de Atletismo",
+      "Club de Futlbol"
+    ],
+    "Nombre": "Edward",
+    "apellido": "Guallichico",
+    "cedula": "1717195422"
+  },
+  {
+    "carrera": "Ingenieria Electronica",
+    "clubes": [
+      "Club de Andinismo",
+      "Club de Robòtica"
+    ],
+    "Nombre": "Johan",
+    "apellido": "Paucar",
+    "cedula": "1714545555"
+  },
+  {
+    "carrera": "Ingenieria Automitriz",
+    "clubes": [
+      "Club de Danza",
+      "Club de Mùsica"
+    ],
+    "Nombre": "Dalay",
+    "apellido": "Tipan",
+    "cedula": "051719545214"
+  },
+  {
+    "carrera": "Ingenieria Mecanica",
+    "clubes": [
+      "Club de Atletismo",
+      "Club de Futlbol",
+      "Club de Robòtica"
+    ],
+    "Nombre": "Cristobal",
+    "apellido": "Guallichcio",
+    "cedula": "1717195422"
+  },
+  {
+    "carrera": "Ingenieria Mecanica",
+    "clubes": [
+      "Club de Ajedrez",
+      "Club de Futlbol",
+      "Club de Robòtica"
+    ],
+    "Nombre": "Maria",
+    "apellido": "Suntaxi",
+    "cedula": "1714196425"
+  },
+  {
+    "carrera": "Ingenieria Electronica",
+    "clubes": [
+      "Club de Ajedrez",
+      "Club de Futlbol"
+    ],
+    "Nombre": "Jenifer",
+    "apellido": "Moreno",
+    "cedula": "1558691548"
+  },
+  {
+    "carrera": "Ingenieria Automitriz",
+    "clubes": [
+      "Club de Danza",
+      "Club de Atletismo",
+      "Club de Futlbol"
+    ],
+    "Nombre": "Carolina",
+    "apellido": "Pacheco",
+    "cedula": "1715492638"
+  },
+  {
+    "carrera": "Ingenieria Electronica",
+    "clubes": [
+      "Club de Andinismo",
+      "Club de Boxeo",
+      "Club de Futlbol",
+      "Club de Robòtica"
+    ],
+    "Nombre": "Patricio",
+    "apellido": "Castro",
+    "cedula": "1749623851"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de Atletismo",
+      "Club de Mùsica"
+    ],
+    "Nombre": "Juan",
+    "apellido": "Quinga",
+    "cedula": "1745698753"
+  }
+]

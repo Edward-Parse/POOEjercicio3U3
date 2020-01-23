@@ -1,0 +1,61 @@
+{
+  "numero": "319df7de-f8c6-470c-aea8-a1f6546bc532",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 12,
+    "second": 13
+  },
+  "estado": "APROBADO",
+  "estudiante": {
+    "Nombre": "Maria",
+    "apellido": "Suntaxi",
+    "cedula": "1714196425"
+  },
+  "curso": {
+    "titulo": "Auxiliar en Software",
+    "costo": 112.0,
+    "descripcion": "Tester"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 23,
+        "second": 11
+      },
+      "valor": 14.53,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 23,
+        "second": 14
+      },
+      "valor": 14.42,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 23,
+        "second": 19
+      },
+      "valor": 13.95,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.3
+}

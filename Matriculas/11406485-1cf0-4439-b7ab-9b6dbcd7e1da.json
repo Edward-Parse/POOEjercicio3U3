@@ -1,0 +1,30 @@
+{
+  "numero": "11406485-1cf0-4439-b7ab-9b6dbcd7e1da",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 11,
+    "second": 51
+  },
+  "estado": "REGISTRADA",
+  "estudiante": {
+    "carrera": "Ingenieria Automitriz",
+    "clubes": [
+      "Club de Danza",
+      "Club de Atletismo",
+      "Club de Futlbol"
+    ],
+    "Nombre": "Carolina",
+    "apellido": "Pacheco",
+    "cedula": "1715492638"
+  },
+  "curso": {
+    "titulo": "Fundamentos de programación",
+    "costo": 124.0,
+    "descripcion": "ALgoritmos"
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}

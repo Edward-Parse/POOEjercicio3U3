@@ -1,0 +1,61 @@
+{
+  "numero": "e1f6aa08-bfca-4e65-93ea-2cb3cc7d4e62",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 1,
+    "second": 19
+  },
+  "estado": "REPROBADO",
+  "estudiante": {
+    "Nombre": "Dalay",
+    "apellido": "Tipan",
+    "cedula": "051719545214"
+  },
+  "curso": {
+    "titulo": "Auxiliar en Software",
+    "costo": 112.0,
+    "descripcion": "Tester"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 42
+      },
+      "valor": 13.62,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 51
+      },
+      "valor": 12.45,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 57
+      },
+      "valor": 15.45,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.84
+}

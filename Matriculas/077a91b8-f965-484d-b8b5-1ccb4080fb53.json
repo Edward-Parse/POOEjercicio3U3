@@ -1,0 +1,61 @@
+{
+  "numero": "077a91b8-f965-484d-b8b5-1ccb4080fb53",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 0,
+    "second": 51
+  },
+  "estado": "APROBADO",
+  "estudiante": {
+    "Nombre": "Cristobal",
+    "apellido": "Guallichcio",
+    "cedula": "1717195422"
+  },
+  "curso": {
+    "titulo": "Fundamentos de programación",
+    "costo": 124.0,
+    "descripcion": "ALgoritmos"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 23,
+        "second": 35
+      },
+      "valor": 13.95,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 23,
+        "second": 39
+      },
+      "valor": 14.070001,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 23,
+        "second": 42
+      },
+      "valor": 14.2,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.073334
+}

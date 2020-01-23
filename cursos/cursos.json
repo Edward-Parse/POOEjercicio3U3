@@ -1,0 +1,38 @@
+[{
+		"titulo": "Reparación de computadoras",
+		"costo": 224.0,
+		"descripcion": "Como aprender una mejor manera a reparar una comṕutadora de manera rapida"
+	},
+	{
+		"titulo": "Fundamentos de programación",
+		"costo": 124.0,
+		"descripcion": "ALgoritmos"
+	},
+	{
+		"titulo": "Programación Orientada a Objetos",
+		"costo": 123.0,
+		"descripcion": "Clases y Objetos"
+	},
+	{
+		"titulo": "Programacion movil Básica",
+		"costo": 112.0,
+		"descrpcion": "Android"
+	},
+	{
+		"titulo": "Programación móvil avanzada",
+		"costo": 112.0,
+		"descripcion": "android y ios"
+	},
+	{
+		"titulo": "Calculo vectorial",
+		"costo": 110.0,
+		"descrpcion": "Vectores en el espacio"
+	},
+	{
+		"titulo": "Auxiliar en Software",
+		"costo": 112.0,
+		"descripcion": "Tester"
+	}
+
+
+]

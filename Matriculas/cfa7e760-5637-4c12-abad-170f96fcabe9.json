@@ -1,0 +1,61 @@
+{
+  "numero": "cfa7e760-5637-4c12-abad-170f96fcabe9",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 1,
+    "second": 9
+  },
+  "estado": "APROBADO",
+  "estudiante": {
+    "Nombre": "Edward",
+    "apellido": "Guallichico",
+    "cedula": "1717195422"
+  },
+  "curso": {
+    "titulo": "Programación móvil avanzada",
+    "costo": 112.0,
+    "descripcion": "android y ios"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 3
+      },
+      "valor": 17.62,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 8
+      },
+      "valor": 14.52,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 13
+      },
+      "valor": 15.62,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 15.919999
+}

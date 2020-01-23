@@ -1,0 +1,60 @@
+{
+  "numero": "c88bc0a6-72a6-40e9-866c-d985e3f38565",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 1,
+    "second": 3
+  },
+  "estado": "APROBADO",
+  "estudiante": {
+    "Nombre": "Edward",
+    "apellido": "Guallichico",
+    "cedula": "1717195422"
+  },
+  "curso": {
+    "titulo": "Calculo vectorial",
+    "costo": 110.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 1,
+        "second": 54
+      },
+      "valor": 14.52,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 2,
+        "second": 2
+      },
+      "valor": 16.35,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 2,
+        "second": 9
+      },
+      "valor": 15.42,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 15.43
+}

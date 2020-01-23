@@ -1,0 +1,61 @@
+{
+  "numero": "9fa7e547-793f-4cf2-8975-fa58a81e9e2c",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 11,
+    "second": 48
+  },
+  "estado": "APROBADO",
+  "estudiante": {
+    "Nombre": "Carolina",
+    "apellido": "Pacheco",
+    "cedula": "1715492638"
+  },
+  "curso": {
+    "titulo": "Auxiliar en Software",
+    "costo": 112.0,
+    "descripcion": "Tester"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 25,
+        "second": 57
+      },
+      "valor": 14.94,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 2
+      },
+      "valor": 13.52,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 26,
+        "second": 8
+      },
+      "valor": 15.52,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.66
+}

@@ -1,0 +1,61 @@
+{
+  "numero": "62292223-0927-499e-9b85-5c90b7474e70",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 11,
+    "second": 41
+  },
+  "estado": "APROBADO",
+  "estudiante": {
+    "Nombre": "Dalay",
+    "apellido": "Tipan",
+    "cedula": "051719545214"
+  },
+  "curso": {
+    "titulo": "Reparación de computadoras",
+    "costo": 224.0,
+    "descripcion": "Como aprender una mejor manera a reparar una comṕutadora de manera rapida"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 22,
+        "second": 36
+      },
+      "valor": 14.52,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 22,
+        "second": 40
+      },
+      "valor": 14.6,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 22,
+        "second": 44
+      },
+      "valor": 14.53,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.55
+}

@@ -1,0 +1,61 @@
+{
+  "numero": "d920afdf-3ed1-486e-a21c-2d1e380f829c",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 12,
+    "second": 0
+  },
+  "estado": "APROBADO",
+  "estudiante": {
+    "Nombre": "Jenifer",
+    "apellido": "Moreno",
+    "cedula": "1558691548"
+  },
+  "curso": {
+    "titulo": "Auxiliar en Software",
+    "costo": 112.0,
+    "descripcion": "Tester"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 19,
+        "second": 30
+      },
+      "valor": 17.51,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 19,
+        "second": 38
+      },
+      "valor": 14.52,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 19,
+        "second": 43
+      },
+      "valor": 17.62,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.550001
+}

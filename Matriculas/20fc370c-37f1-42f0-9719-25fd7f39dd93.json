@@ -1,0 +1,61 @@
+{
+  "numero": "20fc370c-37f1-42f0-9719-25fd7f39dd93",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 0,
+    "second": 54
+  },
+  "estado": "APROBADO",
+  "estudiante": {
+    "Nombre": "Cristobal",
+    "apellido": "Guallichcio",
+    "cedula": "1717195422"
+  },
+  "curso": {
+    "titulo": "Programación móvil avanzada",
+    "costo": 112.0,
+    "descripcion": "android y ios"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 25,
+        "second": 32
+      },
+      "valor": 15.52,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 25,
+        "second": 35
+      },
+      "valor": 15.44,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 25,
+        "second": 41
+      },
+      "valor": 14.94,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 15.299999
+}

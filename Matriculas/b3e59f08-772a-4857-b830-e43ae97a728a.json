@@ -1,0 +1,30 @@
+{
+  "numero": "b3e59f08-772a-4857-b830-e43ae97a728a",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 11,
+    "second": 54
+  },
+  "estado": "REGISTRADA",
+  "estudiante": {
+    "carrera": "Ingenieria Automitriz",
+    "clubes": [
+      "Club de Danza",
+      "Club de Atletismo",
+      "Club de Futlbol"
+    ],
+    "Nombre": "Carolina",
+    "apellido": "Pacheco",
+    "cedula": "1715492638"
+  },
+  "curso": {
+    "titulo": "Reparación de computadoras",
+    "costo": 224.0,
+    "descripcion": "Como aprender una mejor manera a reparar una comṕutadora de manera rapida"
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}

@@ -1,0 +1,60 @@
+{
+  "numero": "ca888e34-ccfb-40c9-ae99-0aec767ccfe2",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 12,
+    "second": 10
+  },
+  "estado": "APROBADO",
+  "estudiante": {
+    "Nombre": "Maria",
+    "apellido": "Suntaxi",
+    "cedula": "1714196425"
+  },
+  "curso": {
+    "titulo": "Calculo vectorial",
+    "costo": 110.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 30
+      },
+      "valor": 15.62,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 35
+      },
+      "valor": 13.52,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 42
+      },
+      "valor": 13.04,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.06
+}
